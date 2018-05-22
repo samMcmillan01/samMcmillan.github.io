@@ -1,0 +1,17 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-cron": "^1.2.1",
+    "nodemailer": "^4.6.4",
+    "pmx": "^1.6.4"
+  }
+}
